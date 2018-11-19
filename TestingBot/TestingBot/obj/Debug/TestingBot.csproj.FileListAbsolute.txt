@@ -1,0 +1,15 @@
+C:\Users\Adolfo\Desktop\Bot\TestingBot\TestingBot\bin\Debug\TestingBot.exe.config
+C:\Users\Adolfo\Desktop\Bot\TestingBot\TestingBot\bin\Debug\TestingBot.exe
+C:\Users\Adolfo\Desktop\Bot\TestingBot\TestingBot\bin\Debug\TestingBot.pdb
+C:\Users\Adolfo\Desktop\Bot\TestingBot\TestingBot\bin\Debug\LiteDB.dll
+C:\Users\Adolfo\Desktop\Bot\TestingBot\TestingBot\bin\Debug\LiteDB.xml
+C:\Users\Adolfo\Desktop\Bot\TestingBot\TestingBot\obj\Debug\TestingBot.CreateTasks.resources
+C:\Users\Adolfo\Desktop\Bot\TestingBot\TestingBot\obj\Debug\TestingBot.Main.resources
+C:\Users\Adolfo\Desktop\Bot\TestingBot\TestingBot\obj\Debug\TestingBot.ProfilesPage.resources
+C:\Users\Adolfo\Desktop\Bot\TestingBot\TestingBot\obj\Debug\TestingBot.Properties.Resources.resources
+C:\Users\Adolfo\Desktop\Bot\TestingBot\TestingBot\obj\Debug\TestingBot.csproj.GenerateResource.cache
+C:\Users\Adolfo\Desktop\Bot\TestingBot\TestingBot\obj\Debug\TestingBot.csproj.CoreCompileInputs.cache
+C:\Users\Adolfo\Desktop\Bot\TestingBot\TestingBot\obj\Debug\TestingBot.csproj.CopyComplete
+C:\Users\Adolfo\Desktop\Bot\TestingBot\TestingBot\obj\Debug\TestingBot.exe
+C:\Users\Adolfo\Desktop\Bot\TestingBot\TestingBot\obj\Debug\TestingBot.pdb
+C:\Users\Adolfo\Desktop\Bot\TestingBot\TestingBot\obj\Debug\TestingBot.csprojAssemblyReference.cache
